@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quaestionesovid00wartgoog_0003.png"; bbox 0 0 927 1371; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 222 255 433 300">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 222 255 433 300">
+     <span class='ocr_line' id='line_1_1' title="bbox 222 255 433 300; baseline -0.019 -3"><span class='ocrx_word' id='word_1_1' title='bbox 222 262 359 300; x_wconf 51' lang='lat' dir='ltr'>„gasan</span> <span class='ocrx_word' id='word_1_2' title='bbox 369 255 433 294; x_wconf 48' lang='grc' dir='ltr'>ὡς</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 312 375 588 607">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 312 375 588 607">
+     <span class='ocr_line' id='line_1_2' title="bbox 312 375 588 607; baseline 0 764"><span class='ocrx_word' id='word_1_3' title='bbox 312 375 588 607; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 285 635 606 745">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 285 635 606 745">
+     <span class='ocr_line' id='line_1_3' title="bbox 305 635 578 661; baseline 0 -7"><span class='ocrx_word' id='word_1_4' title='bbox 305 635 398 657; x_wconf 54' lang='lat' dir='ltr'>&#39;maritam</span> <span class='ocrx_word' id='word_1_5' title='bbox 410 635 486 661; x_wconf 58' lang='lat' dir='ltr'>[mutue</span> <span class='ocrx_word' id='word_1_6' title='bbox 499 635 578 659; x_wconf 54' lang='lat' dir='ltr'>zibrana</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 389 689 503 700; baseline -0.009 0"><span class='ocrx_word' id='word_1_7' title='bbox 389 690 424 700; x_wconf 77' lang='lat' dir='ltr'>THE</span> <span class='ocrx_word' id='word_1_8' title='bbox 433 689 473 700; x_wconf 72' lang='grc' dir='ltr'>ΘΙΠ</span> <span class='ocrx_word' id='word_1_9' title='bbox 481 689 503 699; x_wconf 78' lang='lat' dir='ltr'>OF</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 285 718 606 745; baseline 0 -3"><span class='ocrx_word' id='word_1_10' title='bbox 285 718 419 743; x_wconf 54' lang='lat' dir='ltr'>STEPHEN&#39;</span> <span class='ocrx_word' id='word_1_11' title='bbox 436 727 606 745; x_wconf 67' lang='lat' dir='ltr'>SALlsBuRY‚</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 330 774 559 789">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 330 774 559 789">
+     <span class='ocr_line' id='line_1_6' title="bbox 330 774 559 789; baseline -0.004 -2"><span class='ocrx_word' id='word_1_12' title='bbox 330 774 355 787; x_wconf 78' lang='lat' dir='ltr'>OF</span> <span class='ocrx_word' id='word_1_13' title='bbox 366 774 492 789; x_wconf 75' lang='lat' dir='ltr'>WORCESTER,</span> <span class='ocrx_word' id='word_1_14' title='bbox 504 774 559 787; x_wconf 69' lang='lat' dir='ltr'>MASS⁴</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 436 1185 678 1304">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 436 1185 678 1304">
+     <span class='ocr_line' id='line_1_7' title="bbox 436 1185 678 1304; baseline 0 67"><span class='ocrx_word' id='word_1_15' title='bbox 436 1185 678 1304; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

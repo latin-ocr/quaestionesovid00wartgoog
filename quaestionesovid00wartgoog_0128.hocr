@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quaestionesovid00wartgoog_0128.png"; bbox 0 0 927 1371; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 300 436 408 461">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 300 436 408 461">
+     <span class='ocr_line' id='line_1_1' title="bbox 300 436 408 461; baseline 0.019 -7"><span class='ocrx_word' id='word_1_1' title='bbox 300 436 322 451; x_wconf 58' lang='lat' dir='ltr'>W</span> <span class='ocrx_word' id='word_1_2' title='bbox 337 438 408 461; x_wconf 37' lang='lat' dir='ltr'>&#39;sim-79</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 312 481 413 497">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 312 481 413 497">
+     <span class='ocr_line' id='line_1_2' title="bbox 312 481 413 497; baseline 0.01 -4"><span class='ocrx_word' id='word_1_3' title='bbox 312 481 314 486; x_wconf 78' lang='lat'>=</span> <span class='ocrx_word' id='word_1_4' title='bbox 341 481 413 497; x_wconf 44' lang='lat' dir='ltr'>‹zvaeug</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 310 590 429 616">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 310 590 429 616">
+     <span class='ocr_line' id='line_1_3' title="bbox 310 590 429 616; baseline -0.017 -3"><span class='ocrx_word' id='word_1_5' title='bbox 310 590 429 616; x_wconf 48' lang='lat' dir='ltr'>35)ssan</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 271 1177 514 1316">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 271 1177 514 1316">
+     <span class='ocr_line' id='line_1_4' title="bbox 271 1177 514 1316; baseline 0 55"><span class='ocrx_word' id='word_1_6' title='bbox 271 1177 514 1316; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
